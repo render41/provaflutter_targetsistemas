@@ -1,7 +1,7 @@
 # provaflutter_targetsistemas
 
 ## Local da Documentação:
-[provaflutter_targetsistemas](https://github.com/render41/provaflutter_targetsistemas.wiki.git)
+[provaflutter_targetsistemas](https://github.com/render41/provaflutter_targetsistemas/wiki)
 
 ## Sobre:
 Aplicativo de duas telas onde elas tratam da:
